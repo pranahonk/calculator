@@ -18,7 +18,7 @@ public class calculator {
             System.out.println(i+1 +". " + menu[i]);
         }
 
-        System.out.println("Choose Menu");
+        System.out.println("Operator [1...7]: ");
         int chooseMenu = scan.nextInt();
 
        System.out.println("Input Second Number");
